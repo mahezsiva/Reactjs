@@ -1,0 +1,10 @@
+
+{
+
+  "citynames":[
+      {"id":"1","cities":"chennai"},
+      {"id":"2","cities":"Bangalore"},
+      {"id":"3","cities":"Hyderabad"},
+      {"id":"4","cities":"nagpur"}
+  ]
+}
